@@ -5,6 +5,10 @@
 - [Instructions](#instructions)
 - [Contributing](#contributing)
 
+## How to play:
+
+- Game URL: https://yancongli.github.io/ArcadeGame/index.html
+
 ## Instructions
 
 Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
