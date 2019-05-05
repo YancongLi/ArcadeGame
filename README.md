@@ -7,6 +7,7 @@
 
 ## How to play:
 
+- Navigate the character using arrow keys
 - Game URL: https://yancongli.github.io/ArcadeGame/index.html
 
 ## Instructions
